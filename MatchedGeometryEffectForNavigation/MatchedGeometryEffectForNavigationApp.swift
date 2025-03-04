@@ -11,7 +11,7 @@ import SwiftUI
 struct MatchedGeometryEffectForNavigationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MatchedGeometryEffectForNavigationView()
         }
     }
 }
